@@ -20,7 +20,7 @@ export default {
       tema: 'Diseño visual, UX y producción de contenidos multimedia',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Evaluar la comprensión y el uso adecuado de las herramientas básicas en la ventana <em>Board</em> del <em>software</em> EAGLE.',
+        '<b> Objetivo:</b> Evaluar la comprensión de los conceptos, procesos, principios de diseño, UX, narrativa, producción gráfica, audiovisual, animación desarrollados en el Componente Formativo.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO.',
